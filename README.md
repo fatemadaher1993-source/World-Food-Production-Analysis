@@ -29,5 +29,4 @@ To ensure data accuracy, I utilized custom DAX measures such as:
 ## 📸 Dashboard Preview
 ![Global Food Production Dashboard](https://github.com/fatemadaher1993-source/World-Food-Production-Analysis/blob/main/Screen%20Shot%202026-01-14%20at%2021.36.55.png)
 
-**Developed by Fatma**
-[LinkedIn Profile Link] | [Portfolio Link]
+
