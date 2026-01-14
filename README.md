@@ -1,9 +1,9 @@
 # 🌍 World Food Production Strategic Analysis (1992-2022)
 
-## 📌 Project Overview
+## Project Overview
 This project provides a comprehensive, interactive analysis of global food production over three decades. Using verified data from **FAOSTAT**, the dashboard tracks the production volumes of 24 essential food commodities, visualizes geographic distribution, and forecasts future growth trends up to 2030.
 
-## 🚀 Key Technical Features
+## Key Technical Features
 * **Predictive Analytics:** Implemented time-series forecasting to project production growth until 2030.
 * **Advanced Filtering:** Integrated a dynamic **Text Search Slicer** for instant querying by Country or Food Product.
 * **Interactive Mapping:** Global heatmap showing production intensity by country.
@@ -21,12 +21,12 @@ This project provides a comprehensive, interactive analysis of global food produ
 * **Power Query:** Data cleaning, transformation, and normalization of FAO datasets.
 * **Data Modeling:** Established relationships between geographical and production tables.
 
-## 📐 DAX Logic Examples
+##  DAX Logic Examples
 To ensure data accuracy, I utilized custom DAX measures such as:
 - `Total Production = SUM('Production_Data'[Quantity])`
 - `Product Variety Count = DISTINCTCOUNT('Production_Data'[Food Products])`
 
-## 📸 Dashboard Preview
+## Dashboard Preview
 ![Global Food Production Dashboard](https://github.com/fatemadaher1993-source/World-Food-Production-Analysis/blob/main/Screen%20Shot%202026-01-14%20at%2021.36.55.png)
 
 
