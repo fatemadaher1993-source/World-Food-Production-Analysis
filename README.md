@@ -1,4 +1,4 @@
-# 🌍 World Food Production Strategic Analysis (1992-2022)
+# World Food Production Strategic Analysis (1992-2022)
 
 ## Project Overview
 This project provides a comprehensive, interactive analysis of global food production over three decades. Using verified data from **FAOSTAT**, the dashboard tracks the production volumes of 24 essential food commodities, visualizes geographic distribution, and forecasts future growth trends up to 2030.
@@ -15,7 +15,7 @@ This project provides a comprehensive, interactive analysis of global food produ
 * **Regional Powerhouses:** Asia leads global production, followed by the Americas.
 * **Strategic Growth:** Production is forecasted to peak near 6.5bn tonnes by 2030.
 
-## 🛠️ Technical Stack & Skills
+##  Technical Stack & Skills
 * **Power BI Desktop:** Dashboard design, UI/UX optimization, and visualization.
 * **DAX (Data Analysis Expressions):** Developed custom measures to aggregate large datasets and create dynamic KPIs.
 * **Power Query:** Data cleaning, transformation, and normalization of FAO datasets.
