@@ -27,8 +27,7 @@ To ensure data accuracy, I utilized custom DAX measures such as:
 - `Product Variety Count = DISTINCTCOUNT('Production_Data'[Food Products])`
 
 ## 📸 Dashboard Preview
-![Global Food Production Dashboard](YOUR_IMAGE_FILENAME_HERE.jpg)
-*(Note: Replace YOUR_IMAGE_FILENAME_HERE.jpg with the actual name of the image you uploaded)*
+![Global Food Production Dashboard](https://github.com/fatemadaher1993-source/World-Food-Production-Analysis/blob/main/Screen%20Shot%202026-01-14%20at%2021.36.55.png)
 
 ## 📂 Project Structure
 * `World_Food_Production.pbix`: The main Power BI dashboard file.
