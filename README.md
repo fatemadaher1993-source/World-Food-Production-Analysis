@@ -29,11 +29,5 @@ To ensure data accuracy, I utilized custom DAX measures such as:
 ## 📸 Dashboard Preview
 ![Global Food Production Dashboard](https://github.com/fatemadaher1993-source/World-Food-Production-Analysis/blob/main/Screen%20Shot%202026-01-14%20at%2021.36.55.png)
 
-## 📂 Project Structure
-* `World_Food_Production.pbix`: The main Power BI dashboard file.
-* `FAOSTAT_Dataset.csv`: Raw data sourced from the Food and Agriculture Organization.
-* `Resources/`: Contains icons and images used in the report.
-
----
 **Developed by Fatma**
 [LinkedIn Profile Link] | [Portfolio Link]
